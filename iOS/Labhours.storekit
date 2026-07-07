@@ -1,0 +1,29 @@
+{
+  "identifier": "storekit_config",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "4.99",
+      "familyShareable": false,
+      "internalID": "NC1",
+      "localizations": [
+        {
+          "description": "Export a clean, signed-style PDF summary of your hours for supervisors.",
+          "displayName": "Signed Export",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.labhours.pro",
+      "referenceName": "Labhours Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_locale": "en_US"
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
